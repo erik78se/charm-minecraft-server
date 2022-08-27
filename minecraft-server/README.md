@@ -65,7 +65,7 @@ All Minecraft developers for a great game!
 ## Upstream Project Name
 
   - Minecraft https://www.minecraft.net
-  - Charm code: https://github.com/erik78se/layer-minecraft-server
+  - Charm code: https://charmhub.io/erik-lonroth-minecraft-server
   - mcstatus (Gets server status)  https://github.com/Dinnerbone/mcstatus (Apache 2.0)
 
 [Minecraft]: https://www.minecraft.net
