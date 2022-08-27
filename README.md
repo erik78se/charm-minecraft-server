@@ -11,4 +11,6 @@ See full documentation: [minecraft-server/README.md](minecraft-server/README.md)
     cd minecraft-server
     charmcraft pack
 
+## Releasing
 
+    charmcraft upload minecraft-server_ubuntu-20.04-amd64.charm --name erik-lonroth-minecraft-server

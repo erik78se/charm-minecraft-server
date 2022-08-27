@@ -12,7 +12,7 @@ The server needs about 2GB ram and 2 cpus to be happy (might need more).
 * Deploy with the server jar as a juju resource:
 
 ```bash
-juju deploy cs:~erik-lonroth/minecraft-server --constraints "mem=2G cores=2" --resource server-jar=minecraft_server.1.14.jar
+juju deploy erik-lonroth-minecraft-server --constraints "mem=2G cores=2" --resource server-jar=minecraft_server.1.14.jar
 
 juju expose minecraft-server
 ```
