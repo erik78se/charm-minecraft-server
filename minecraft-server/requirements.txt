@@ -1,0 +1,5 @@
+charmhelpers==1.2.1
+MarkupSafe==2.1.1
+mcstatus==9.4.0
+ops==1.5.2
+
